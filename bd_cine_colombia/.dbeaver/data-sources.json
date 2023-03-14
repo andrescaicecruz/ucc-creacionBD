@@ -19,6 +19,25 @@
 				},
 				"auth-model": "oracle_native"
 			}
+		},
+		"oracle_thin-186ddda5157-35156a2160987819": {
+			"provider": "oracle",
+			"driver": "oracle_thin",
+			"name": "localhost xe/cine",
+			"save-password": true,
+			"configuration": {
+				"host": "localhost",
+				"port": "1521",
+				"database": "xe",
+				"url": "jdbc:oracle:thin:@//localhost:1521/xe",
+				"configurationType": "MANUAL",
+				"type": "dev",
+				"provider-properties": {
+					"@dbeaver-connection-type@": "BASIC",
+					"@dbeaver-sid-service@": "SERVICE"
+				},
+				"auth-model": "oracle_native"
+			}
 		}
 	},
 	"connection-types": {
