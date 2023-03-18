@@ -1,1 +1,1 @@
-{"resources":{"Scripts/Script.sql":{"default-datasource":"oracle_thin-186dd8fbc6e-4b27a0672ea704e6","default-schema":"SYSTEM"},"Scripts/crear_basedatos_v1.2.0.sql":{"default-datasource":"oracle_thin-186ddda5157-35156a2160987819","default-schema":"CINE"}}}
+{"resources":{"Scripts/crear_basedatos_v1.2.0.sql":{"default-schema":"CINE","default-datasource":"oracle_thin-186ddda5157-35156a2160987819"},"Scripts/pg_createuser_scheme.sql":{"default-schema":"public","default-datasource":"postgres-jdbc-186f30f840c-1a840a5790eba369","default-catalog":"postgres"}}}
