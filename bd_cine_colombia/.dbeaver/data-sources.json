@@ -73,6 +73,19 @@
 			}
 		}
 	},
+	"virtual-models": {
+		"postgres-jdbc-186f311f70b-7f35cc279df302e3": {
+			"cine": {
+				"public": {
+					"@properties": {
+						"erd.diagram.state": {
+							"serialized": "\u003cdiagram version\u003d\"1\" name\u003d\"empty\" time\u003d\"202303180035\"\u003e\u003centities/\u003e\u003crelations/\u003e\u003c/diagram\u003e"
+						}
+					}
+				}
+			}
+		}
+	},
 	"connection-types": {
 		"dev": {
 			"name": "Development",
