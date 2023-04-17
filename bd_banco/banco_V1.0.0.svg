@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="655mm" xmlns="http://www.w3.org/2000/svg" height="288mm" version="1.1" viewBox="0 0 2476 1091" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <polyline fill="none" points="462,467 462,407" stroke="#800040" stroke-width="1"/>
+   <polygon fill="#800040" points="462,407 465,420 459,420" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+   <path d="M704,725 L461,725 A8,8 0 0,1 453,717 L453,687" fill="none" stroke="#800040" stroke-width="1"/>
+   <polygon fill="#800040" points="453,687 456,700 450,700" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+   <path d="M152,924 L152,503 A8,8 0 0,1 160,495 L372,495" fill="none" stroke="#800040" stroke-width="1"/>
+   <polygon fill="#800040" points="372,495 359,498 359,492" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+   <path d="M167,924 L167,749 A8,8 0 0,1 175,741 L704,741" fill="none" stroke="#800040" stroke-width="1"/>
+   <polygon fill="#800040" points="704,741 691,744 691,738" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="443,350 443,290" stroke="#800040" stroke-width="1"/>
+   <polygon fill="#800040" points="443,290 446,303 440,303" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+   <path d="M754,964 L759,964 A4,4 0 0,0 763,960 L763,794" fill="none" stroke="#800040" stroke-width="1"/>
+   <polygon fill="#800040" points="763,794 766,807 760,807" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="563,290 563,720" stroke="#800040" stroke-width="1"/>
+   <polyline fill="none" points="563,731 563,735" stroke="#800040" stroke-width="1"/>
+   <path d="M563,731 A5,5 0 0,0 569,725" fill="none" stroke="#800040" stroke-width="1"/>
+   <line x1="569" x2="569" y1="725" y2="725" stroke="#800040" stroke-width="1"/>
+   <path d="M569,725 A5,5 0 0,0 563,720" fill="none" stroke="#800040" stroke-width="1"/>
+   <polyline fill="none" points="563,746 563,964" stroke="#800040" stroke-width="1"/>
+   <path d="M563,746 A5,5 0 0,0 569,741" fill="none" stroke="#800040" stroke-width="1"/>
+   <line x1="569" x2="569" y1="741" y2="741" stroke="#800040" stroke-width="1"/>
+   <path d="M569,741 A5,5 0 0,0 563,735" fill="none" stroke="#800040" stroke-width="1"/>
+   <polygon fill="#800040" points="563,290 566,303 560,303" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="819,975 819,794" stroke="#800040" stroke-width="1"/>
+   <polygon fill="#800040" points="819,794 822,807 816,807" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+   <path d="M1249,970 L1249,749 A8,8 0 0,0 1241,741 L926,741" fill="none" stroke="#800040" stroke-width="1"/>
+   <polygon fill="#800040" points="926,741 939,738 939,744" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="1361,970 1361,893" stroke="#800040" stroke-width="1"/>
+   <polygon fill="#800040" points="1361,893 1364,907 1358,907" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+   <path d="M1060,155 L1065,155 A5,5 0 0,0 1070,150 L1070,71" fill="none" stroke="#800040" stroke-width="1"/>
+   <polygon fill="#800040" points="1070,71 1073,85 1067,85" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+   <path d="M1060,311 L1065,311 A5,5 0 0,1 1070,316 L1070,425" fill="none" stroke="#800040" stroke-width="1"/>
+   <polygon fill="#800040" points="1070,425 1067,412 1073,412" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="1677,143 1497,143" stroke="#0080c0" stroke-width="1"/>
+   <polygon fill="#0080c0" points="1497,143 1511,140 1511,146" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="1497,159 1626,159 1626,414 1769,414" stroke="#0080c0" stroke-width="1"/>
+   <polygon fill="#0080c0" points="1769,414 1756,417 1756,411" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="1900,523 1900,461" stroke="#0080c0" stroke-width="1"/>
+   <polygon fill="#0080c0" points="1900,461 1903,474 1897,474" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="459,233 459,124 1064,124" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="1075,124 1677,124" stroke="#0080c0" stroke-width="1"/>
+   <path d="M1075,124 A5,5 0 0,0 1070,119" fill="none" stroke="#0080c0" stroke-width="1"/>
+   <line x1="1070" x2="1070" y1="119" y2="119" stroke="#0080c0" stroke-width="1"/>
+   <path d="M1070,119 A5,5 0 0,0 1064,124" fill="none" stroke="#0080c0" stroke-width="1"/>
+   <polygon fill="#0080c0" points="459,233 456,220 462,220" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="1787,681 1658,681 1658,420" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="1658,409 1658,159 1677,159" stroke="#0080c0" stroke-width="1"/>
+   <path d="M1658,420 A5,5 0 0,0 1663,414" fill="none" stroke="#0080c0" stroke-width="1"/>
+   <line x1="1663" x2="1663" y1="414" y2="414" stroke="#0080c0" stroke-width="1"/>
+   <path d="M1663,414 A5,5 0 0,0 1658,409" fill="none" stroke="#0080c0" stroke-width="1"/>
+   <polygon fill="#0080c0" points="1787,681 1773,684 1773,678" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="1575,522 1575,191 1621,191" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="1631,191 1653,191" stroke="#0080c0" stroke-width="1"/>
+   <path d="M1631,191 A5,5 0 0,0 1626,186" fill="none" stroke="#0080c0" stroke-width="1"/>
+   <line x1="1626" x2="1626" y1="186" y2="186" stroke="#0080c0" stroke-width="1"/>
+   <path d="M1626,186 A5,5 0 0,0 1621,191" fill="none" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="1663,191 1677,191" stroke="#0080c0" stroke-width="1"/>
+   <path d="M1663,191 A5,5 0 0,0 1658,186" fill="none" stroke="#0080c0" stroke-width="1"/>
+   <line x1="1658" x2="1658" y1="186" y2="186" stroke="#0080c0" stroke-width="1"/>
+   <path d="M1658,186 A5,5 0 0,0 1653,191" fill="none" stroke="#0080c0" stroke-width="1"/>
+   <polygon fill="#0080c0" points="1575,522 1572,508 1578,508" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="459,290 459,340 558,340" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="569,340 1065,340" stroke="#0080c0" stroke-width="1"/>
+   <path d="M569,340 A5,5 0 0,0 563,335" fill="none" stroke="#0080c0" stroke-width="1"/>
+   <line x1="563" x2="563" y1="335" y2="335" stroke="#0080c0" stroke-width="1"/>
+   <path d="M563,335 A5,5 0 0,0 558,340" fill="none" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="1075,340 1353,340" stroke="#0080c0" stroke-width="1"/>
+   <path d="M1075,340 A5,5 0 0,0 1070,335" fill="none" stroke="#0080c0" stroke-width="1"/>
+   <line x1="1070" x2="1070" y1="335" y2="335" stroke="#0080c0" stroke-width="1"/>
+   <path d="M1070,335 A5,5 0 0,0 1065,340" fill="none" stroke="#0080c0" stroke-width="1"/>
+   <polygon fill="#0080c0" points="459,290 462,303 456,303" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="1505,337 1505,175 1621,175" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="1631,175 1653,175" stroke="#0080c0" stroke-width="1"/>
+   <path d="M1631,175 A5,5 0 0,0 1626,170" fill="none" stroke="#0080c0" stroke-width="1"/>
+   <line x1="1626" x2="1626" y1="170" y2="170" stroke="#0080c0" stroke-width="1"/>
+   <path d="M1626,170 A5,5 0 0,0 1621,175" fill="none" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="1663,175 1677,175" stroke="#0080c0" stroke-width="1"/>
+   <path d="M1663,175 A5,5 0 0,0 1658,170" fill="none" stroke="#0080c0" stroke-width="1"/>
+   <line x1="1658" x2="1658" y1="170" y2="170" stroke="#0080c0" stroke-width="1"/>
+   <path d="M1658,170 A5,5 0 0,0 1653,175" fill="none" stroke="#0080c0" stroke-width="1"/>
+   <polygon fill="#0080c0" points="1505,337 1502,323 1508,323" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="1492,695 1492,789 1639,789" stroke="#0080c0" stroke-width="1"/>
+   <polygon fill="#0080c0" points="1639,789 1626,792 1626,786" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="1677,207 1663,207" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="1653,207 1631,207" stroke="#0080c0" stroke-width="1"/>
+   <path d="M1663,207 A5,5 0 0,0 1658,202" fill="none" stroke="#0080c0" stroke-width="1"/>
+   <line x1="1658" x2="1658" y1="202" y2="202" stroke="#0080c0" stroke-width="1"/>
+   <path d="M1658,202 A5,5 0 0,0 1653,207" fill="none" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="1621,207 1606,207 1606,625" stroke="#0080c0" stroke-width="1"/>
+   <path d="M1631,207 A5,5 0 0,0 1626,202" fill="none" stroke="#0080c0" stroke-width="1"/>
+   <line x1="1626" x2="1626" y1="202" y2="202" stroke="#0080c0" stroke-width="1"/>
+   <path d="M1626,202 A5,5 0 0,0 1621,207" fill="none" stroke="#0080c0" stroke-width="1"/>
+   <polygon fill="#0080c0" points="1677,207 1664,210 1664,204" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="1677,226 1663,226" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="1653,226 1631,226" stroke="#0080c0" stroke-width="1"/>
+   <path d="M1663,226 A5,5 0 0,0 1658,221" fill="none" stroke="#0080c0" stroke-width="1"/>
+   <line x1="1658" x2="1658" y1="221" y2="221" stroke="#0080c0" stroke-width="1"/>
+   <path d="M1658,221 A5,5 0 0,0 1653,226" fill="none" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="1621,226 1611,226" stroke="#0080c0" stroke-width="1"/>
+   <path d="M1631,226 A5,5 0 0,0 1626,221" fill="none" stroke="#0080c0" stroke-width="1"/>
+   <line x1="1626" x2="1626" y1="221" y2="221" stroke="#0080c0" stroke-width="1"/>
+   <path d="M1626,221 A5,5 0 0,0 1621,226" fill="none" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="1600,226 1580,226" stroke="#0080c0" stroke-width="1"/>
+   <path d="M1611,226 A5,5 0 0,0 1606,221" fill="none" stroke="#0080c0" stroke-width="1"/>
+   <line x1="1606" x2="1606" y1="221" y2="221" stroke="#0080c0" stroke-width="1"/>
+   <path d="M1606,221 A5,5 0 0,0 1600,226" fill="none" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="1569,226 1511,226" stroke="#0080c0" stroke-width="1"/>
+   <path d="M1580,226 A5,5 0 0,0 1575,221" fill="none" stroke="#0080c0" stroke-width="1"/>
+   <line x1="1575" x2="1575" y1="221" y2="221" stroke="#0080c0" stroke-width="1"/>
+   <path d="M1575,221 A5,5 0 0,0 1569,226" fill="none" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="1500,226 1224,226 1224,335" stroke="#0080c0" stroke-width="1"/>
+   <path d="M1511,226 A5,5 0 0,0 1505,221" fill="none" stroke="#0080c0" stroke-width="1"/>
+   <line x1="1505" x2="1505" y1="221" y2="221" stroke="#0080c0" stroke-width="1"/>
+   <path d="M1505,221 A5,5 0 0,0 1500,226" fill="none" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="1224,346 1224,536" stroke="#0080c0" stroke-width="1"/>
+   <path d="M1224,346 A5,5 0 0,0 1229,340" fill="none" stroke="#0080c0" stroke-width="1"/>
+   <line x1="1229" x2="1229" y1="340" y2="340" stroke="#0080c0" stroke-width="1"/>
+   <path d="M1229,340 A5,5 0 0,0 1224,335" fill="none" stroke="#0080c0" stroke-width="1"/>
+   <polygon fill="#0080c0" points="1677,226 1664,229 1664,223" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="2030,418 2344,418 2344,321" stroke="#0080c0" stroke-width="1"/>
+   <polygon fill="#0080c0" points="2344,321 2347,334 2341,334" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <rect x="374" y="634" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient1" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d28902"/>
+      </linearGradient>
+   </defs>
+   <rect x="374" y="634" fill="url(#Gradient1)" width="158" height="53" stroke="#804000" stroke-width="1"/>
+   <text x="453" y="645" fill="#000000" font-size="7" font-family="Arial" text-anchor="middle">TIPO_DOCUMENTO</text>
+   <line x1="374" x2="532" y1="651" y2="651" stroke="#804000" stroke-width="1"/>
+   <text x="379" y="659" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">ID_TD</text>
+   <text x="379" y="672" fill="#000000" font-size="7" font-family="Arial">NOMBRE</text>
+   <text x="432" y="659" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">VARCHAR(2)</text>
+   <text x="432" y="672" fill="#000000" font-size="7" font-family="Arial">VARCHAR(20)</text>
+   <text x="507" y="659" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">&lt;pk&gt;</text>
+   <rect x="372" y="467" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient2" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d28902"/>
+      </linearGradient>
+   </defs>
+   <rect x="372" y="467" fill="url(#Gradient2)" width="166" height="57" stroke="#804000" stroke-width="1"/>
+   <text x="455" y="478" fill="#000000" font-size="7" font-family="Arial" text-anchor="middle">CIUDAD</text>
+   <line x1="372" x2="538" y1="484" y2="484" stroke="#804000" stroke-width="1"/>
+   <text x="377" y="492" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">ID_CIUDAD</text>
+   <text x="377" y="505" fill="#000000" font-size="7" font-family="Arial">ID_DEPTO</text>
+   <text x="377" y="518" fill="#000000" font-size="7" font-family="Arial">NOMBRE</text>
+   <text x="439" y="492" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">VARCHAR(5)</text>
+   <text x="439" y="505" fill="#000000" font-size="7" font-family="Arial">VARCHAR(2)</text>
+   <text x="439" y="518" fill="#000000" font-size="7" font-family="Arial">VARCHAR(20)</text>
+   <text x="514" y="492" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="514" y="505" fill="#000000" font-size="7" font-family="Arial">&lt;fk&gt;</text>
+   <rect x="381" y="350" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient3" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d28902"/>
+      </linearGradient>
+   </defs>
+   <rect x="381" y="350" fill="url(#Gradient3)" width="163" height="57" stroke="#804000" stroke-width="1"/>
+   <text x="462" y="361" fill="#000000" font-size="7" font-family="Arial" text-anchor="middle">DEPARTAMENTO</text>
+   <line x1="381" x2="544" y1="367" y2="367" stroke="#804000" stroke-width="1"/>
+   <text x="386" y="375" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">ID_DEPTO</text>
+   <text x="386" y="388" fill="#000000" font-size="7" font-family="Arial">ID_PAIS</text>
+   <text x="386" y="401" fill="#000000" font-size="7" font-family="Arial">NOMBRE</text>
+   <text x="446" y="375" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">VARCHAR(2)</text>
+   <text x="446" y="388" fill="#000000" font-size="7" font-family="Arial">VARCHAR(3)</text>
+   <text x="446" y="401" fill="#000000" font-size="7" font-family="Arial">VARCHAR(20)</text>
+   <text x="521" y="375" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="521" y="388" fill="#000000" font-size="7" font-family="Arial">&lt;fk&gt;</text>
+   <rect x="704" y="688" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient4" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#ffff80"/>
+      </linearGradient>
+   </defs>
+   <rect x="704" y="688" fill="url(#Gradient4)" width="222" height="106" stroke="#804000" stroke-width="1"/>
+   <text x="815" y="699" fill="#000000" font-size="7" font-family="Arial" text-anchor="middle">CLIENTE</text>
+   <line x1="704" x2="926" y1="705" y2="705" stroke="#804000" stroke-width="1"/>
+   <text x="709" y="713" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">ID_CLIENTE</text>
+   <text x="709" y="725" fill="#000000" font-size="7" font-family="Arial">ID_TD</text>
+   <text x="709" y="738" fill="#000000" font-size="7" font-family="Arial">NOMBRE</text>
+   <text x="709" y="751" fill="#000000" font-size="7" font-family="Arial">APELLIDOS</text>
+   <text x="709" y="764" fill="#000000" font-size="7" font-family="Arial">FECHA_NACIMIENTO</text>
+   <text x="709" y="777" fill="#000000" font-size="7" font-family="Arial">FECHA_VINVULACION</text>
+   <text x="709" y="790" fill="#000000" font-size="7" font-family="Arial">ESTADO</text>
+   <text x="826" y="713" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">NUMBER(20)</text>
+   <text x="826" y="725" fill="#000000" font-size="7" font-family="Arial">VARCHAR(2)</text>
+   <text x="826" y="738" fill="#000000" font-size="7" font-family="Arial">VARCHAR(30)</text>
+   <text x="826" y="751" fill="#000000" font-size="7" font-family="Arial">VARCHAR(30)</text>
+   <text x="826" y="764" fill="#000000" font-size="7" font-family="Arial">DATE</text>
+   <text x="826" y="777" fill="#000000" font-size="7" font-family="Arial">DATE</text>
+   <text x="826" y="790" fill="#000000" font-size="7" font-family="Arial">VARCHAR2(1)</text>
+   <text x="901" y="713" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="901" y="725" fill="#000000" font-size="7" font-family="Arial">&lt;fk&gt;</text>
+   <rect x="2" y="924" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient5" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#ffff80"/>
+      </linearGradient>
+   </defs>
+   <rect x="2" y="924" fill="url(#Gradient5)" width="324" height="156" stroke="#804000" stroke-width="1"/>
+   <text x="164" y="935" fill="#000000" font-size="7" font-family="Arial" text-anchor="middle">CLIENTE_DIRECCIONES</text>
+   <line x1="2" x2="326" y1="941" y2="941" stroke="#804000" stroke-width="1"/>
+   <text x="7" y="949" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">ID_CLIENTE_DIRECCION</text>
+   <text x="7" y="962" fill="#000000" font-size="7" font-family="Arial">CLI_ID_CLIENTE</text>
+   <text x="7" y="975" fill="#000000" font-size="7" font-family="Arial">CIU_ID_CIUDAD</text>
+   <text x="7" y="988" fill="#000000" font-size="7" font-family="Arial">ID_CIUDAD</text>
+   <text x="7" y="1001" fill="#000000" font-size="7" font-family="Arial">VIA_PRINCIPAL</text>
+   <text x="7" y="1014" fill="#000000" font-size="7" font-family="Arial">NOMENCLATURA</text>
+   <text x="7" y="1027" fill="#000000" font-size="7" font-family="Arial">COMPLEMENTO</text>
+   <text x="7" y="1040" fill="#000000" font-size="7" font-family="Arial">ESTADO</text>
+   <text x="7" y="1053" fill="#000000" font-size="7" font-family="Arial">FECHA_REGISTRO</text>
+   <text x="7" y="1066" fill="#000000" font-size="7" font-family="Arial">FECHA_ACTUALIZACION</text>
+   <text x="7" y="1079" fill="#000000" font-size="7" font-family="Arial">ID_USUARIO_LONG</text>
+   <text x="137" y="949" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">NUMBER(20)</text>
+   <text x="137" y="962" fill="#000000" font-size="7" font-family="Arial">NUMBER(20)</text>
+   <text x="137" y="975" fill="#000000" font-size="7" font-family="Arial">VARCHAR(5)</text>
+   <text x="137" y="988" fill="#000000" font-size="7" font-family="Arial">VARCHAR(0)</text>
+   <text x="137" y="1001" fill="#000000" font-size="7" font-family="Arial">VARCHAR(20)</text>
+   <text x="137" y="1014" fill="#000000" font-size="7" font-family="Arial">VARCHAR(20)</text>
+   <text x="137" y="1027" fill="#000000" font-size="7" font-family="Arial">VARCHAR(20)</text>
+   <text x="137" y="1040" fill="#000000" font-size="7" font-family="Arial">VARCHAR2(1)</text>
+   <text x="137" y="1053" fill="#000000" font-size="7" font-family="Arial">TITIMES TAMP WITH TIME ZONE</text>
+   <text x="137" y="1066" fill="#000000" font-size="7" font-family="Arial">TITIMES TAMP WITH TIME ZONE</text>
+   <text x="137" y="1079" fill="#000000" font-size="7" font-family="Arial">VARCHAR2(5)</text>
+   <text x="310" y="949" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="310" y="962" fill="#000000" font-size="7" font-family="Arial">&lt;fk2&gt;</text>
+   <text x="310" y="975" fill="#000000" font-size="7" font-family="Arial">&lt;fk1&gt;</text>
+   <rect x="349" y="233" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient6" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d28902"/>
+      </linearGradient>
+   </defs>
+   <rect x="349" y="233" fill="url(#Gradient6)" width="219" height="57" stroke="#804000" stroke-width="1"/>
+   <text x="458" y="244" fill="#000000" font-size="7" font-family="Arial" text-anchor="middle">PAIS</text>
+   <line x1="349" x2="568" y1="250" y2="250" stroke="#804000" stroke-width="1"/>
+   <text x="354" y="258" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">ID_PAIS</text>
+   <text x="354" y="271" fill="#000000" font-size="7" font-family="Arial">NOMBRE</text>
+   <text x="354" y="284" fill="#000000" font-size="7" font-family="Arial">CODIGO_TELEFONO</text>
+   <text x="465" y="258" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">VARCHAR(3)</text>
+   <text x="465" y="271" fill="#000000" font-size="7" font-family="Arial">VARCHAR(20)</text>
+   <text x="465" y="284" fill="#000000" font-size="7" font-family="Arial">VARCHAR2(10)</text>
+   <text x="546" y="258" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">&lt;pk&gt;</text>
+   <rect x="436" y="964" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient7" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#ffff80"/>
+      </linearGradient>
+   </defs>
+   <rect x="436" y="964" fill="url(#Gradient7)" width="325" height="118" stroke="#804000" stroke-width="1"/>
+   <text x="598" y="975" fill="#000000" font-size="7" font-family="Arial" text-anchor="middle">CLIENTE_TELEFONO</text>
+   <line x1="436" x2="761" y1="981" y2="981" stroke="#804000" stroke-width="1"/>
+   <text x="441" y="989" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">ID_CLIENTE_TELEFONO</text>
+   <text x="441" y="1002" fill="#000000" font-size="7" font-family="Arial">ID_CLIENTE</text>
+   <text x="441" y="1015" fill="#000000" font-size="7" font-family="Arial">ID_PAIS</text>
+   <text x="441" y="1028" fill="#000000" font-size="7" font-family="Arial">TELEFONO</text>
+   <text x="441" y="1041" fill="#000000" font-size="7" font-family="Arial">ESTADO</text>
+   <text x="441" y="1054" fill="#000000" font-size="7" font-family="Arial">FECHA_REGISTRO</text>
+   <text x="441" y="1067" fill="#000000" font-size="7" font-family="Arial">FECHA_ACTUALIZACION</text>
+   <text x="441" y="1080" fill="#000000" font-size="7" font-family="Arial">ID_USUARIO_LOG</text>
+   <text x="571" y="989" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">NUMBER(20)</text>
+   <text x="571" y="1002" fill="#000000" font-size="7" font-family="Arial">NUMBER(20)</text>
+   <text x="571" y="1015" fill="#000000" font-size="7" font-family="Arial">VARCHAR2(3)</text>
+   <text x="571" y="1028" fill="#000000" font-size="7" font-family="Arial">VARCHAR2(30)</text>
+   <text x="571" y="1041" fill="#000000" font-size="7" font-family="Arial">VARCHAR2(1)</text>
+   <text x="571" y="1054" fill="#000000" font-size="7" font-family="Arial">TITIMES TAMP WITH TIME ZONE</text>
+   <text x="571" y="1067" fill="#000000" font-size="7" font-family="Arial">TITIMES TAMP WITH TIME ZONE</text>
+   <text x="571" y="1080" fill="#000000" font-size="7" font-family="Arial">VARCHAR2(5)</text>
+   <text x="744" y="989" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="744" y="1002" fill="#000000" font-size="7" font-family="Arial">&lt;fk1&gt;</text>
+   <text x="744" y="1015" fill="#000000" font-size="7" font-family="Arial">&lt;fk2&gt;</text>
+   <rect x="814" y="975" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient8" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#ffff80"/>
+      </linearGradient>
+   </defs>
+   <rect x="814" y="975" fill="url(#Gradient8)" width="322" height="106" stroke="#804000" stroke-width="1"/>
+   <text x="975" y="986" fill="#000000" font-size="7" font-family="Arial" text-anchor="middle">CLIENTE_EMAILS</text>
+   <line x1="814" x2="1136" y1="992" y2="992" stroke="#804000" stroke-width="1"/>
+   <text x="819" y="1000" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">ID_CLIENTE_EMAILS</text>
+   <text x="819" y="1013" fill="#000000" font-size="7" font-family="Arial">ID_CLIENTE</text>
+   <text x="819" y="1026" fill="#000000" font-size="7" font-family="Arial">EMAIL</text>
+   <text x="819" y="1039" fill="#000000" font-size="7" font-family="Arial">ESTADO</text>
+   <text x="819" y="1052" fill="#000000" font-size="7" font-family="Arial">FECHA_REGISTRO</text>
+   <text x="819" y="1065" fill="#000000" font-size="7" font-family="Arial">FECHA_ACTUALIZACION</text>
+   <text x="819" y="1078" fill="#000000" font-size="7" font-family="Arial">ID_USUARIO_LOG</text>
+   <text x="949" y="1000" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">NUMBER(15)</text>
+   <text x="949" y="1013" fill="#000000" font-size="7" font-family="Arial">NUMBER(20)</text>
+   <text x="949" y="1026" fill="#000000" font-size="7" font-family="Arial">VARCHAR2(20)</text>
+   <text x="949" y="1039" fill="#000000" font-size="7" font-family="Arial">VARCHAR2(1)</text>
+   <text x="949" y="1052" fill="#000000" font-size="7" font-family="Arial">TITIMES TAMP WITH TIME ZONE</text>
+   <text x="949" y="1065" fill="#000000" font-size="7" font-family="Arial">TITIMES TAMP WITH TIME ZONE</text>
+   <text x="949" y="1078" fill="#000000" font-size="7" font-family="Arial">VARCHAR2(5)</text>
+   <text x="1122" y="1000" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="1122" y="1013" fill="#000000" font-size="7" font-family="Arial">&lt;fk&gt;</text>
+   <rect x="1191" y="970" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient9" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#ffff80"/>
+      </linearGradient>
+   </defs>
+   <rect x="1191" y="970" fill="url(#Gradient9)" width="324" height="119" stroke="#804000" stroke-width="1"/>
+   <text x="1353" y="981" fill="#000000" font-size="7" font-family="Arial" text-anchor="middle">CLIENTE_REDES</text>
+   <line x1="1191" x2="1515" y1="987" y2="987" stroke="#804000" stroke-width="1"/>
+   <text x="1196" y="995" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">ID_CLIENTE_REDES</text>
+   <text x="1196" y="1008" fill="#000000" font-size="7" font-family="Arial">ID_CLIENTE</text>
+   <text x="1196" y="1021" fill="#000000" font-size="7" font-family="Arial">ID_RED_SOCIAL</text>
+   <text x="1196" y="1034" fill="#000000" font-size="7" font-family="Arial">NOMBRE_PERFIL</text>
+   <text x="1196" y="1047" fill="#000000" font-size="7" font-family="Arial">ESTADO</text>
+   <text x="1196" y="1060" fill="#000000" font-size="7" font-family="Arial">FECHA_REGISTRO</text>
+   <text x="1196" y="1073" fill="#000000" font-size="7" font-family="Arial">FECHA_ACTUALIZACION</text>
+   <text x="1196" y="1086" fill="#000000" font-size="7" font-family="Arial">ID_USUARIO_LONG</text>
+   <text x="1326" y="995" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">NUMBER(15)</text>
+   <text x="1326" y="1008" fill="#000000" font-size="7" font-family="Arial">NUMBER(20)</text>
+   <text x="1326" y="1021" fill="#000000" font-size="7" font-family="Arial">VARCHAR(5)</text>
+   <text x="1326" y="1034" fill="#000000" font-size="7" font-family="Arial">VARCHAR(30)</text>
+   <text x="1326" y="1047" fill="#000000" font-size="7" font-family="Arial">VARCHAR2(1)</text>
+   <text x="1326" y="1060" fill="#000000" font-size="7" font-family="Arial">TITIMES TAMP WITH TIME ZONE</text>
+   <text x="1326" y="1073" fill="#000000" font-size="7" font-family="Arial">TITIMES TAMP WITH TIME ZONE</text>
+   <text x="1326" y="1086" fill="#000000" font-size="7" font-family="Arial">VARCHAR2(5)</text>
+   <text x="1499" y="995" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="1499" y="1008" fill="#000000" font-size="7" font-family="Arial">&lt;fk1&gt;</text>
+   <text x="1499" y="1021" fill="#000000" font-size="7" font-family="Arial">&lt;fk2&gt;</text>
+   <rect x="1265" y="836" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient10" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#dd6f00"/>
+      </linearGradient>
+   </defs>
+   <rect x="1265" y="836" fill="url(#Gradient10)" width="192" height="57" stroke="#000000" stroke-width="1"/>
+   <text x="1361" y="847" fill="#000000" font-size="7" font-family="Arial" text-anchor="middle">RED_SOCIAL</text>
+   <line x1="1265" x2="1457" y1="853" y2="853" stroke="#000000" stroke-width="1"/>
+   <text x="1270" y="861" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">ID_RED_SOCIAL</text>
+   <text x="1270" y="874" fill="#000000" font-size="7" font-family="Arial">NOMBRE</text>
+   <text x="1270" y="887" fill="#000000" font-size="7" font-family="Arial">ESTADO</text>
+   <text x="1359" y="861" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">VARCHAR(5)</text>
+   <text x="1359" y="874" fill="#000000" font-size="7" font-family="Arial">VARCHAR(20)</text>
+   <text x="1359" y="887" fill="#000000" font-size="7" font-family="Arial">VARCHAR(1)</text>
+   <text x="1434" y="861" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">&lt;pk&gt;</text>
+   <rect x="744" y="155" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient11" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#c0c0c0"/>
+      </linearGradient>
+   </defs>
+   <rect x="744" y="155" fill="url(#Gradient11)" width="324" height="156" stroke="#804000" stroke-width="1"/>
+   <text x="906" y="166" fill="#000000" font-size="7" font-family="Arial" text-anchor="middle">USUARIO</text>
+   <line x1="744" x2="1068" y1="172" y2="172" stroke="#804000" stroke-width="1"/>
+   <text x="748" y="180" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">ID_USUARIO</text>
+   <text x="748" y="193" fill="#000000" font-size="7" font-family="Arial">ID_TIPO_USUARIO</text>
+   <text x="748" y="206" fill="#000000" font-size="7" font-family="Arial">NOMBRE</text>
+   <text x="748" y="219" fill="#000000" font-size="7" font-family="Arial">EMAIL</text>
+   <text x="748" y="232" fill="#000000" font-size="7" font-family="Arial">PASS</text>
+   <text x="748" y="245" fill="#000000" font-size="7" font-family="Arial">ID_TIPO_ALGORITMO</text>
+   <text x="748" y="258" fill="#000000" font-size="7" font-family="Arial">HORA_INICIAL</text>
+   <text x="748" y="271" fill="#000000" font-size="7" font-family="Arial">HORA_FINAÑ</text>
+   <text x="748" y="284" fill="#000000" font-size="7" font-family="Arial">ESTADO</text>
+   <text x="748" y="297" fill="#000000" font-size="7" font-family="Arial">FECHA_REGISTRO</text>
+   <text x="748" y="310" fill="#000000" font-size="7" font-family="Arial">FECHA_ACTUALIZACION</text>
+   <text x="878" y="180" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">VARCHAR(5)</text>
+   <text x="878" y="193" fill="#000000" font-size="7" font-family="Arial">VARCHAR(5)</text>
+   <text x="878" y="206" fill="#000000" font-size="7" font-family="Arial">VARCHAR(60)</text>
+   <text x="878" y="219" fill="#000000" font-size="7" font-family="Arial">VARCHAR2(100)</text>
+   <text x="878" y="232" fill="#000000" font-size="7" font-family="Arial">VARCHAR2(100)</text>
+   <text x="878" y="245" fill="#000000" font-size="7" font-family="Arial">VARCHAR2(2)</text>
+   <text x="878" y="258" fill="#000000" font-size="7" font-family="Arial">NUMBER(2)</text>
+   <text x="878" y="271" fill="#000000" font-size="7" font-family="Arial">NUMBER(2)</text>
+   <text x="878" y="284" fill="#000000" font-size="7" font-family="Arial">VARCHAR2(1)</text>
+   <text x="878" y="297" fill="#000000" font-size="7" font-family="Arial">TITIMES TAMP WITH TIME ZONE</text>
+   <text x="878" y="310" fill="#000000" font-size="7" font-family="Arial">TITIMES TAMP WITH TIME ZONE</text>
+   <text x="1051" y="180" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="1051" y="193" fill="#000000" font-size="7" font-family="Arial">&lt;fk2&gt;</text>
+   <text x="1051" y="245" fill="#000000" font-size="7" font-family="Arial">&lt;fk1&gt;</text>
+   <rect x="992" y="425" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient12" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#c0c0c0"/>
+      </linearGradient>
+   </defs>
+   <rect x="992" y="425" fill="url(#Gradient12)" width="203" height="58" stroke="#000000" stroke-width="1"/>
+   <text x="1093" y="436" fill="#000000" font-size="7" font-family="Arial" text-anchor="middle">TIPO_USUARIO</text>
+   <line x1="992" x2="1195" y1="442" y2="442" stroke="#000000" stroke-width="1"/>
+   <text x="997" y="450" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">ID_TIPO_USUARIO</text>
+   <text x="997" y="463" fill="#000000" font-size="7" font-family="Arial">NOMBRE</text>
+   <text x="997" y="476" fill="#000000" font-size="7" font-family="Arial">ESTADO</text>
+   <text x="1098" y="450" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">VARCHAR(2)</text>
+   <text x="1098" y="463" fill="#000000" font-size="7" font-family="Arial">VARCHAR(20)</text>
+   <text x="1098" y="476" fill="#000000" font-size="7" font-family="Arial">VARCHAR(1)</text>
+   <text x="1173" y="450" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">&lt;pk&gt;</text>
+   <rect x="962" y="2" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient13" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#dd6f00"/>
+      </linearGradient>
+   </defs>
+   <rect x="962" y="2" fill="url(#Gradient13)" width="227" height="69" stroke="#000000" stroke-width="1"/>
+   <text x="1075" y="13" fill="#000000" font-size="7" font-family="Arial" text-anchor="middle">TIPO_ALGORITMO</text>
+   <line x1="962" x2="1189" y1="19" y2="19" stroke="#000000" stroke-width="1"/>
+   <text x="966" y="27" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">ID_TIPO_ALGORITMO</text>
+   <text x="966" y="40" fill="#000000" font-size="7" font-family="Arial">NOMBRE</text>
+   <text x="966" y="53" fill="#000000" font-size="7" font-family="Arial">SCRIPT_LINE</text>
+   <text x="966" y="66" fill="#000000" font-size="7" font-family="Arial">ESTADO</text>
+   <text x="1084" y="27" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">VARCHAR(2)</text>
+   <text x="1084" y="40" fill="#000000" font-size="7" font-family="Arial">VARCHAR(20)</text>
+   <text x="1084" y="53" fill="#000000" font-size="7" font-family="Arial">VARCHAR2(200)</text>
+   <text x="1084" y="66" fill="#000000" font-size="7" font-family="Arial">VARCHAR(1)</text>
+   <text x="1171" y="27" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">&lt;pk&gt;</text>
+   <rect x="1677" y="91" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient14" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#c0c0c0"/>
+      </linearGradient>
+   </defs>
+   <rect x="1677" y="91" fill="url(#Gradient14)" width="327" height="153" stroke="#000000" stroke-width="1"/>
+   <text x="1840" y="102" fill="#000000" font-size="7" font-family="Arial" text-anchor="middle">CUENTA</text>
+   <line x1="1677" x2="2004" y1="108" y2="108" stroke="#000000" stroke-width="1"/>
+   <text x="1682" y="116" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">ID_CUENTA</text>
+   <text x="1682" y="129" fill="#000000" font-size="7" font-family="Arial">ID_TIPO_CUENTA</text>
+   <text x="1682" y="142" fill="#000000" font-size="7" font-family="Arial">ID_PAIS</text>
+   <text x="1682" y="155" fill="#000000" font-size="7" font-family="Arial">ID_TIPO_EMBARGO</text>
+   <text x="1682" y="168" fill="#000000" font-size="7" font-family="Arial">ID_CUENTA_ESTADO</text>
+   <text x="1682" y="181" fill="#000000" font-size="7" font-family="Arial">ID_MONEDA</text>
+   <text x="1682" y="194" fill="#000000" font-size="7" font-family="Arial">FECHA_APERTURA</text>
+   <text x="1682" y="207" fill="#000000" font-size="7" font-family="Arial">DESCRIPCION</text>
+   <text x="1682" y="220" fill="#000000" font-size="7" font-family="Arial">FECHA_REGISTRO</text>
+   <text x="1682" y="233" fill="#000000" font-size="7" font-family="Arial">FECHA_ACTULIZACION</text>
+   <text x="1682" y="246" fill="#000000" font-size="7" font-family="Arial">ID_USUARIO_LOG</text>
+   <text x="1805" y="116" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">NUMBER(15)</text>
+   <text x="1805" y="129" fill="#000000" font-size="7" font-family="Arial">VARCHAR2(2)</text>
+   <text x="1805" y="142" fill="#000000" font-size="7" font-family="Arial">VARCHAR(3)</text>
+   <text x="1805" y="155" fill="#000000" font-size="7" font-family="Arial">VARCHAR(2)</text>
+   <text x="1805" y="168" fill="#000000" font-size="7" font-family="Arial">VARCHAR(2)</text>
+   <text x="1805" y="181" fill="#000000" font-size="7" font-family="Arial">VARCHAR2(2)</text>
+   <text x="1805" y="194" fill="#000000" font-size="7" font-family="Arial">TIMESTAMP WITH TIME ZONE</text>
+   <text x="1805" y="207" fill="#000000" font-size="7" font-family="Arial">&lt;Undefined&gt;</text>
+   <text x="1805" y="220" fill="#000000" font-size="7" font-family="Arial">TIMESTAMP WITH TIME ZONE</text>
+   <text x="1805" y="233" fill="#000000" font-size="7" font-family="Arial">TIMESTAMP WITH TIME ZONE</text>
+   <text x="1805" y="246" fill="#000000" font-size="7" font-family="Arial">VARCHAR2(5)</text>
+   <text x="1965" y="116" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="1965" y="129" fill="#000000" font-size="7" font-family="Arial">&lt;fk1&gt;</text>
+   <text x="1965" y="142" fill="#000000" font-size="7" font-family="Arial">&lt;fk2&gt;</text>
+   <text x="1965" y="155" fill="#000000" font-size="7" font-family="Arial">&lt;fk3&gt;</text>
+   <text x="1965" y="168" fill="#000000" font-size="7" font-family="Arial">&lt;fk4&gt;</text>
+   <text x="1965" y="181" fill="#000000" font-size="7" font-family="Arial">&lt;fk5&gt;</text>
+   <rect x="1281" y="132" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient15" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#c0c0c0"/>
+      </linearGradient>
+   </defs>
+   <rect x="1281" y="132" fill="url(#Gradient15)" width="216" height="86" stroke="#000000" stroke-width="1"/>
+   <text x="1389" y="143" fill="#000000" font-size="7" font-family="Arial" text-anchor="middle">TIPO_CUENTA</text>
+   <line x1="1281" x2="1497" y1="149" y2="149" stroke="#000000" stroke-width="1"/>
+   <text x="1285" y="157" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">ID_TIPO_CUENTA</text>
+   <text x="1285" y="170" fill="#000000" font-size="7" font-family="Arial">ID_CLASE_PRODUCTO</text>
+   <text x="1285" y="183" fill="#000000" font-size="7" font-family="Arial">NOMBRE</text>
+   <text x="1285" y="196" fill="#000000" font-size="7" font-family="Arial">ESTADO</text>
+   <text x="1407" y="157" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">VARCHAR2(2)</text>
+   <text x="1407" y="170" fill="#000000" font-size="7" font-family="Arial">VARCHAR2(2)</text>
+   <text x="1407" y="183" fill="#000000" font-size="7" font-family="Arial">VARCHAR2(20)</text>
+   <text x="1407" y="196" fill="#000000" font-size="7" font-family="Arial">VARCHAR2(1)</text>
+   <text x="1488" y="157" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="1488" y="170" fill="#000000" font-size="7" font-family="Arial">&lt;fk&gt;</text>
+   <rect x="1769" y="375" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient16" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#c0c0c0"/>
+      </linearGradient>
+   </defs>
+   <rect x="1769" y="375" fill="url(#Gradient16)" width="261" height="86" stroke="#000000" stroke-width="1"/>
+   <text x="1899" y="386" fill="#000000" font-size="7" font-family="Arial" text-anchor="middle">CLASE_PRODUCTO</text>
+   <line x1="1769" x2="2030" y1="392" y2="392" stroke="#000000" stroke-width="1"/>
+   <text x="1774" y="400" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">ID_CLASE_PRODUCTO</text>
+   <text x="1774" y="413" fill="#000000" font-size="7" font-family="Arial">ID_CREDITO</text>
+   <text x="1774" y="426" fill="#000000" font-size="7" font-family="Arial">NOMBRE</text>
+   <text x="1774" y="439" fill="#000000" font-size="7" font-family="Arial">ESTADO</text>
+   <text x="1896" y="400" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">VARCHAR2(2)</text>
+   <text x="1896" y="413" fill="#000000" font-size="7" font-family="Arial">VARCHAR2(2)</text>
+   <text x="1896" y="426" fill="#000000" font-size="7" font-family="Arial">VARCHAR2(20)</text>
+   <text x="1896" y="439" fill="#000000" font-size="7" font-family="Arial">VARCHAR2(1)</text>
+   <text x="1977" y="400" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="1977" y="413" fill="#000000" font-size="7" font-family="Arial">&lt;fk&gt;</text>
+   <rect x="1781" y="523" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient17" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#c0c0c0"/>
+      </linearGradient>
+   </defs>
+   <rect x="1781" y="523" fill="url(#Gradient17)" width="238" height="62" stroke="#000000" stroke-width="1"/>
+   <text x="1900" y="534" fill="#000000" font-size="7" font-family="Arial" text-anchor="middle">PRODUCTO</text>
+   <line x1="1781" x2="2019" y1="540" y2="540" stroke="#000000" stroke-width="1"/>
+   <text x="1786" y="548" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">ID_PRODUCTO</text>
+   <text x="1786" y="561" fill="#000000" font-size="7" font-family="Arial">ID_CLASE_PRODUCTO</text>
+   <text x="1908" y="548" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">VARCHAR2(2)</text>
+   <text x="1908" y="561" fill="#000000" font-size="7" font-family="Arial">VARCHAR2(2)</text>
+   <text x="1983" y="548" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="1983" y="561" fill="#000000" font-size="7" font-family="Arial">&lt;fk&gt;</text>
+   <rect x="1787" y="652" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient18" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#c0c0c0"/>
+      </linearGradient>
+   </defs>
+   <rect x="1787" y="652" fill="url(#Gradient18)" width="209" height="57" stroke="#000000" stroke-width="1"/>
+   <text x="1891" y="663" fill="#000000" font-size="7" font-family="Arial" text-anchor="middle">TIPO_EMBARGO</text>
+   <line x1="1787" x2="1996" y1="669" y2="669" stroke="#000000" stroke-width="1"/>
+   <text x="1791" y="677" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">ID_TIPO_EMBARGO</text>
+   <text x="1791" y="690" fill="#000000" font-size="7" font-family="Arial">NOMBRE</text>
+   <text x="1791" y="703" fill="#000000" font-size="7" font-family="Arial">ESTADO</text>
+   <text x="1899" y="677" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">VARCHAR(2)</text>
+   <text x="1899" y="690" fill="#000000" font-size="7" font-family="Arial">VARCHAR(20)</text>
+   <text x="1899" y="703" fill="#000000" font-size="7" font-family="Arial">VARCHAR(1)</text>
+   <text x="1974" y="677" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">&lt;pk&gt;</text>
+   <rect x="1382" y="522" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient19" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#c0c0c0"/>
+      </linearGradient>
+   </defs>
+   <rect x="1382" y="522" fill="url(#Gradient19)" width="216" height="57" stroke="#000000" stroke-width="1"/>
+   <text x="1490" y="533" fill="#000000" font-size="7" font-family="Arial" text-anchor="middle">CUENTA_ESTADO</text>
+   <line x1="1382" x2="1598" y1="539" y2="539" stroke="#000000" stroke-width="1"/>
+   <text x="1386" y="547" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">ID_CUENTA_ESTADO</text>
+   <text x="1386" y="560" fill="#000000" font-size="7" font-family="Arial">NOMBRE</text>
+   <text x="1386" y="573" fill="#000000" font-size="7" font-family="Arial">ESTADO</text>
+   <text x="1501" y="547" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">VARCHAR(2)</text>
+   <text x="1501" y="560" fill="#000000" font-size="7" font-family="Arial">VARCHAR(20)</text>
+   <text x="1501" y="573" fill="#000000" font-size="7" font-family="Arial">VARCHAR(1)</text>
+   <text x="1576" y="547" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">&lt;pk&gt;</text>
+   <rect x="1353" y="337" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient20" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#c0c0c0"/>
+      </linearGradient>
+   </defs>
+   <rect x="1353" y="337" fill="url(#Gradient20)" width="216" height="85" stroke="#000000" stroke-width="1"/>
+   <text x="1461" y="348" fill="#000000" font-size="7" font-family="Arial" text-anchor="middle">MONEDA</text>
+   <line x1="1353" x2="1569" y1="354" y2="354" stroke="#000000" stroke-width="1"/>
+   <text x="1357" y="362" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">ID_MONEDA</text>
+   <text x="1357" y="375" fill="#000000" font-size="7" font-family="Arial">ID_PAIS</text>
+   <text x="1357" y="388" fill="#000000" font-size="7" font-family="Arial">NOMBRE</text>
+   <text x="1357" y="401" fill="#000000" font-size="7" font-family="Arial">ESTADO</text>
+   <text x="1426" y="362" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">VARCHAR2(2)</text>
+   <text x="1426" y="375" fill="#000000" font-size="7" font-family="Arial">VARCHAR(3)</text>
+   <text x="1426" y="388" fill="#000000" font-size="7" font-family="Arial">VARCHAR2(20)</text>
+   <text x="1426" y="401" fill="#000000" font-size="7" font-family="Arial">VARCHAR2(1)</text>
+   <text x="1507" y="362" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="1507" y="375" fill="#000000" font-size="7" font-family="Arial">&lt;fk&gt;</text>
+   <rect x="1356" y="625" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient21" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#c0c0c0"/>
+      </linearGradient>
+   </defs>
+   <rect x="1356" y="625" fill="url(#Gradient21)" width="272" height="70" stroke="#000000" stroke-width="1"/>
+   <text x="1492" y="636" fill="#000000" font-size="7" font-family="Arial" text-anchor="middle">CUENTA_MOVIMIENTO</text>
+   <line x1="1356" x2="1628" y1="642" y2="642" stroke="#000000" stroke-width="1"/>
+   <text x="1361" y="650" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">ID_CUENTA_MOV_CONTROL</text>
+   <text x="1361" y="663" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">ID_CUENTA-MOV</text>
+   <text x="1361" y="676" fill="#000000" font-size="7" font-family="Arial">ID_CUENTA</text>
+   <text x="1361" y="689" fill="#000000" font-size="7" font-family="Arial">VALOR</text>
+   <text x="1513" y="650" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">NUMBER(5)</text>
+   <text x="1513" y="663" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">NUMBER(0)</text>
+   <text x="1513" y="676" fill="#000000" font-size="7" font-family="Arial">NUMBER(15)</text>
+   <text x="1513" y="689" fill="#000000" font-size="7" font-family="Arial">NUMBER(15,2)</text>
+   <text x="1592" y="650" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">&lt;pk,fk1&gt;</text>
+   <text x="1592" y="663" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="1592" y="676" fill="#000000" font-size="7" font-family="Arial">&lt;fk2&gt;</text>
+   <rect x="1639" y="767" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient22" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#c0c0c0"/>
+      </linearGradient>
+   </defs>
+   <rect x="1639" y="767" fill="url(#Gradient22)" width="330" height="54" stroke="#000000" stroke-width="1"/>
+   <text x="1804" y="778" fill="#000000" font-size="7" font-family="Arial" text-anchor="middle">CUENTA_CONTROL</text>
+   <line x1="1639" x2="1969" y1="784" y2="784" stroke="#000000" stroke-width="1"/>
+   <text x="1644" y="792" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">ID_CUENTA_MOV_CONTROL</text>
+   <text x="1644" y="805" fill="#000000" font-size="7" font-family="Arial">FECHA</text>
+   <text x="1796" y="792" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">NUMBER(5)</text>
+   <text x="1796" y="805" fill="#000000" font-size="7" font-family="Arial">TIMESTAMP WITH TIME ZONE</text>
+   <text x="1956" y="792" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">&lt;pk&gt;</text>
+   <rect x="1136" y="536" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient23" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#c0c0c0"/>
+      </linearGradient>
+   </defs>
+   <rect x="1136" y="536" fill="url(#Gradient23)" width="175" height="54" stroke="#000000" stroke-width="1"/>
+   <text x="1223" y="547" fill="#000000" font-size="7" font-family="Arial" text-anchor="middle">CUENTA_CLIENTES</text>
+   <line x1="1136" x2="1311" y1="553" y2="553" stroke="#000000" stroke-width="1"/>
+   <text x="1141" y="561" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">ID_CUENTA</text>
+   <text x="1141" y="574" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">ID_CLIENTE</text>
+   <text x="1209" y="561" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">NUMBER(15)</text>
+   <text x="1209" y="574" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">NUMBER(20)</text>
+   <text x="1279" y="561" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">&lt;pk,fk&gt;</text>
+   <text x="1279" y="574" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">&lt;pk&gt;</text>
+   <rect x="2213" y="259" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient24" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#c0c0c0"/>
+      </linearGradient>
+   </defs>
+   <rect x="2213" y="259" fill="url(#Gradient24)" width="261" height="62" stroke="#000000" stroke-width="1"/>
+   <text x="2343" y="270" fill="#000000" font-size="7" font-family="Arial" text-anchor="middle">CREDITO</text>
+   <line x1="2213" x2="2474" y1="276" y2="276" stroke="#000000" stroke-width="1"/>
+   <text x="2218" y="284" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">ID_CREDITO</text>
+   <text x="2218" y="297" fill="#000000" font-size="7" font-family="Arial">NOMBRE</text>
+   <text x="2218" y="310" fill="#000000" font-size="7" font-family="Arial">ESTADO</text>
+   <text x="2288" y="284" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">VARCHAR2(2)</text>
+   <text x="2288" y="297" fill="#000000" font-size="7" font-family="Arial">VARCHAR2(20)</text>
+   <text x="2288" y="310" fill="#000000" font-size="7" font-family="Arial">VARCHAR2(1)</text>
+   <text x="2369" y="284" fill="#000000" font-size="7" font-family="Arial" text-decoration="underline">&lt;pk&gt;</text>
+</svg>
